@@ -1,0 +1,5 @@
+{
+  "name": "IG Smart Assistant",
+  "description": "A simulated Instagram Direct Message interface powered by Gemini AI to help you draft, refine, and automate replies to conversations.",
+  "requestFramePermissions": []
+}
